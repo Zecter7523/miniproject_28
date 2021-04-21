@@ -1,0 +1,28 @@
+{
+  "name": "miniproject_28",
+  "version": "1.0.0",
+  "description": "In this mini-project, you will work with a group to build an API using Node.js, Express.js, MySQL, and Sequelize, and you will deploy it to Heroku.",
+  "main": "location.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "seed": "./seed.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zecter7523/miniproject_28.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zecter7523/miniproject_28/issues"
+  },
+  "homepage": "https://github.com/Zecter7523/miniproject_28#readme",
+  "keywords": [],
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "env": "0.0.2",
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.6.2"
+  }
+}
