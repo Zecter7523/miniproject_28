@@ -4,7 +4,7 @@ CREATE DATABASE travel_db;
 
 USE travel_db
 
--- CREATE TABLE users(
+-- CREATE TABLE traveller(
 --     id INTEGER NOT NULL,
 --     name VARCHAR(30),
 --     email VARCHAR(30),
